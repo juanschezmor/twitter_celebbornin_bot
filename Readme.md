@@ -7,7 +7,7 @@ Simple twitter script with python and tweepy
 It is a script done in jupyter notebooks. It publishes a tweet that sais: "'Celeb' born in 'Seville's town'" and post an image of the celeb and other of the town.
 The celebrity chosen is random from a csv and same with the town.
 
-## Getting Started
+![alt text](https://github.com/juansm01/twitter_celebbornin_bot/blob/main/demo.jpeg?raw=true)
 
 ### Dependencies
 

@@ -1,4 +1,4 @@
-# Project Title
+# Tweepy Script
 
 Simple twitter script with python and tweepy
 
